@@ -2,7 +2,7 @@
     padding: 0%;
     margin: 0%;
 }
-header{
+#Home{
     min-height: 100vh;
     background: url(../img/photodune-12772856-diverse-group-people-working-together-concept-s-600x450\ 3\ 2.jpg)
     no-repeat ;
@@ -163,7 +163,7 @@ color: #fff;
 line-height: 200%;
   }
  @media (max-width: 1322px) {
-  header{
+  #home{
 min-height: 50vh;
   }
      
